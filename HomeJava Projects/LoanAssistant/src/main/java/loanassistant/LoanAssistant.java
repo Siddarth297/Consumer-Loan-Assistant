@@ -1,4 +1,4 @@
-
+//This is Consumer Loan Java Project
 package loanassistant;
 import java.text.*;
 import javax.swing.*;
@@ -458,4 +458,5 @@ public class LoanAssistant extends JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     // End of variables declaration//GEN-END:variables
+	//This is Consumer Loan Java Project
 }
